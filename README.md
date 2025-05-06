@@ -2,7 +2,7 @@
 
 # 🔍 Understanding Fine-Tuned GPT-2 on Algorithmic Tasks
 
-This repository contains the code and data for our project exploring the mechanistic interpretability of GPT-2-small fine-tuned on two algorithmic tasks: array sorting and modular subtraction. We investigate how structured representations emerge across transformer layers and whether task-specific reasoning circuits can be identified. All of our code are included in the `.ipynb` notebooks and you may run them directly. We've also provided some of the generated files and you may load them directly to save time.
+This repository contains the code and data for our project exploring the mechanistic interpretability of GPT-2-small fine-tuned on two algorithmic tasks: array sorting and modular subtraction. We investigate how structured representations emerge across transformer layers and whether task-specific reasoning circuits can be identified. All of our code are included in the `.ipynb` notebooks and you may run them directly. We've also provided some of the generated files and you may load them directly(remember to change file paths) to save time.
 
 📌 Key Features
 
